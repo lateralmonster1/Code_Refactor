@@ -1,4 +1,4 @@
-This is an HTML site with CSS and SEO best practices
+This is an HTML site with CSS and SEO best practices.-----
 User Story and Acceptance Criteria below 
 
 
