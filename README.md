@@ -1,3 +1,30 @@
+This is an HTML site with CSS and SEO best practices
+User Story and Acceptance Criteria below 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
