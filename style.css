@@ -22,6 +22,7 @@ body {
     font-style: italic;
 }
 
+/* Changed colors, fonts, and px size of some subtitles, paragraphs, and lists*/
 h1 h2, h3 {
     font-style: italic;
     color:rgb(213, 183, 139);
@@ -102,16 +103,25 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    p{
+        font-size: 20px;
+    }
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    p{
+        font-size: 20px;
+    }
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    p{
+        font-size: 20px;
+    }
 }
 
 .benefit-lead h3 {
@@ -156,8 +166,10 @@ p {
     color: rgb(213, 183, 139);
     p{
     color:#ffffff;
+    font-size: 25px;}
+    h2 {font-style: italic;}
     }
-}
+
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -166,8 +178,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: rgb(213, 183, 139);
-    p {color:#ffffff;}
-}
+    p {color:#ffffff;
+    font-size: 25px;}
+    h2 {font-style: italic;}
+    }
+
 
 .social-media-marketing {
     margin-bottom: 20px;
@@ -178,7 +193,10 @@ p {
     color: rgb(213, 183, 139);
     p{
         color:#ffffff;
+    font-size: 25px;
     }
+    h2 {font-style: italic;
+}
 }
 
 .search-engine-optimization img {
