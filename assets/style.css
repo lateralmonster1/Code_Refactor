@@ -1,7 +1,19 @@
+/* Made header links butons*/
+
+.rounded-button {
+    padding: 10px 20px;  /* Adjusted padding for desired size */
+    border: none;       /* Removed default border */
+    border-radius: 20px; /* Rounded corners */
+    background-color:blue#d3d670d8; /* Button background color */
+    color: white);       /* Text color */
+    font-size: 16px;    /* Text size */
+    cursor: pointer;    /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition for background color */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
 }
 
 body {
@@ -98,6 +110,9 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    
+        
+
 }
 
 .benefit-lead {
