@@ -1,5 +1,9 @@
 /* Made header links butons*/
 
+.background-image{
+ background-image: url("assets/images/digital-marketing-meeting.jpg");
+}
+
 .rounded-button {
     padding: 10px 20px;  /* Adjusted padding for desired size */
     border: none;       /* Removed default border */
@@ -80,7 +84,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("assets\images\digital-marketing-meeting.jpg");
+    background-image: url("assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
